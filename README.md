@@ -72,6 +72,7 @@
 </div>
 
 ---
+
 <h5 align="left">Courses & Certifications</h5>
 
 <div align="left">
@@ -93,4 +94,16 @@
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+<h5 align="left">Currently Pursuing & Upcoming Certifications</h5>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Red_Hat-RHCSA_(EX200)-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHCSA" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Cisco-CCNA_(200--301)-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF1010?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
 </div>
