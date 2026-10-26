@@ -3,7 +3,7 @@
 <h3 align="left">Associate Degree in Information Technology | Backend & DevOps Specialist</h3>
 
 <p align="left">
-  Associate Degree Graduate in IT specialized in Backend Development and DevOps, with a strong background in Core Networking Infrastructure and Cybersecurity. Experienced in administering multi-vendor network environments (Cisco, Fortinet, Aruba, Check Point), with a continuous drive for Ethical Hacking and active preparation for industry-standard security and systems certifications.
+  IT Systems Graduate specialized in Backend Development, DevOps, and Infrastructure Security. Experienced in Red Hat Enterprise Linux (RHEL) server environments, containerization, and automation tools, alongside configuring multi-vendor enterprise networks (Cisco, Fortinet, Aruba, Check Point). Driven by a strong passion for Ethical Hacking and continuous preparation for industry certifications in systems, networking, and security.
 </p>
 
 ---
@@ -70,6 +70,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Check_Point-E00000?style=for-the-badge&logo=checkpoint&logoColor=white" alt="Check Point" />
 </div>
+
 ---
 <h5 align="left">Courses & Certifications</h5>
 
