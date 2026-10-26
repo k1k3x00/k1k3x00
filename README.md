@@ -15,8 +15,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -30,8 +28,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img width="12" />
@@ -66,14 +62,15 @@
 <h5 align="left">Networking Vendors & Hardware</h5>
 
 <div align="left">
-  <img src="https://www.svgrepo.com/show/373516/cisco.svg" height="40" alt="Cisco" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/373652/fortinet.svg" height="40" alt="Fortinet" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/303295/aruba-networks-logo.svg" height="40" alt="Aruba Networks" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/373623/checkpoint.svg" height="40" alt="Check Point" />
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Aruba-FF8300?style=for-the-badge&logo=aruba&logoColor=white" alt="Aruba" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Check_Point-E00000?style=for-the-badge&logo=checkpoint&logoColor=white" alt="Check Point" />
 </div>
+
 <h5 align="left">Courses & Certifications</h5>
 
 <div align="left">
