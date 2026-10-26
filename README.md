@@ -13,7 +13,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
   <img width="12" />
@@ -29,9 +33,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg" height="40" alt="OpenShift" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
@@ -59,6 +67,7 @@
 </div>
 
 ---
+
 <h5 align="left">Networking Vendors & Hardware</h5>
 
 <div align="left">
@@ -73,37 +82,18 @@
 
 ---
 
-<h5 align="left">Courses & Certifications</h5>
+<h5 align="left">Experience</h5>
 
 <div align="left">
-  <table style="border:none; border-collapse:collapse;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="assets/TecnicoRedes.png" height="80" alt="Network Technician" /><br />
-        <sub><b>Network Technician</b></sub>
-      </td>
-      <td width="20"></td>
-      <td align="center" style="padding: 10px;">
-        <img src="assets/CCNA.png" height="80" alt="CCNA SRWE" /><br />
-        <sub><b>CCNA: SRWE</b></sub>
-      </td>
-      <td width="20"></td>
-      <td align="center" style="padding: 10px;">
-        <img src="assets/Java.png" height="80" alt="Java Fundamentals" /><br />
-        <sub><b>Java Fundamentals</b></sub>
-      </td>
-    </tr>
-  </table>
+  <h4>Network & Infrastructure Security Intern — <b>SEDITEC</b></h4>
+  <p><i>May 2026 – August 2026</i></p>
+  <ul>
+    <li>Configured and managed enterprise networking infrastructure and perimeter security using <b>Fortinet FortiGate</b> firewalls, <b>Check Point</b>, and <b>Aruba Access Points</b>.</li>
+    <li>Administered and hardened server environments running <b>Red Hat Enterprise Linux (RHEL)</b>.</li>
+    <li>Supported network troubleshooting, security policies, and infrastructure deployment across multi-vendor environments.</li>
+  </ul>
 </div>
 
 ---
 
-<h5 align="left">Currently Pursuing & Upcoming Certifications</h5>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Red_Hat-RHCSA_(EX200)-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHCSA" />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA_(200--301)-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF1010?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
-</div>
+<h5 align="left">Courses & Certifications
