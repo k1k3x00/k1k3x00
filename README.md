@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Enrique!</h1>
 
-<h3 align="left">Aspiring Network and Backend developer</h3>
+<h3 align="left">Associate Degree in Information Technology | Backend & DevOps Specialist</h3>
 
 <p align="left">
-  My approach bridges the gap between software development logic and core networking infrastructure. I am passionate about building robust, efficient backend systems, backed by a solid understanding of the protocols and network communication that make the internet work. I’m always looking to understand the 'how' and 'why' behind every connection, from the application layer down to the network infrastructure.
+  Associate Degree Graduate in IT specialized in Backend Development and DevOps, with a strong background in Core Networking Infrastructure and Cybersecurity. Experienced in administering multi-vendor network environments (Cisco, Fortinet, Aruba, Check Point), with a continuous drive for Ethical Hacking and active preparation for industry-standard security and systems certifications.
 </p>
 
 ---
@@ -70,7 +70,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Check_Point-E00000?style=for-the-badge&logo=checkpoint&logoColor=white" alt="Check Point" />
 </div>
-
+---
 <h5 align="left">Courses & Certifications</h5>
 
 <div align="left">
