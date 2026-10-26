@@ -66,15 +66,14 @@
 <h5 align="left">Networking Vendors & Hardware</h5>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="40" alt="Cisco" />
+  <img src="https://www.svgrepo.com/show/373516/cisco.svg" height="40" alt="Cisco" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortinet/fortinet-original.svg" height="40" alt="Fortinet" />
+  <img src="https://www.svgrepo.com/show/373652/fortinet.svg" height="40" alt="Fortinet" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aruba/aruba-original.svg" height="40" alt="Aruba" />
+  <img src="https://www.svgrepo.com/show/303295/aruba-networks-logo.svg" height="40" alt="Aruba Networks" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/checkpoint/checkpoint-original.svg" height="40" alt="Check Point" />
+  <img src="https://www.svgrepo.com/show/373623/checkpoint.svg" height="40" alt="Check Point" />
 </div>
-
 <h5 align="left">Courses & Certifications</h5>
 
 <div align="left">
